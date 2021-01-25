@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T08:18:59.715Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="QU3dnuQQbSzRZ7lYXh_K" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T09:55:51.504Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="EZLWfMGyNaDurubRZtwr" version="14.2.6" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1653" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -100,10 +100,10 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uFygjKmsmsNvpjBXzgSG-26" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.76;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.2;exitY=0.799;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uFygjKmsmsNvpjBXzgSG-8" target="uFygjKmsmsNvpjBXzgSG-2">
+        <mxCell id="uFygjKmsmsNvpjBXzgSG-26" value="" style="endArrow=classic;html=1;exitX=1.28;exitY=0.682;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uFygjKmsmsNvpjBXzgSG-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="590" as="sourcePoint" />
-            <mxPoint x="810" y="401" as="targetPoint" />
+            <mxPoint x="753" y="329" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uFygjKmsmsNvpjBXzgSG-27" value="下载到本地" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uFygjKmsmsNvpjBXzgSG-26">
@@ -122,11 +122,32 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uFygjKmsmsNvpjBXzgSG-30" value="平台物料流转现状" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry width="110" height="20" as="geometry" />
+        <mxCell id="uFygjKmsmsNvpjBXzgSG-30" value="平台物料流转现状时序图" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uFygjKmsmsNvpjBXzgSG-32" value="S 盘目录繁琐，层级非常深&lt;br&gt;检索效果差&lt;br&gt;没有消息通知机制" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="80" width="160" height="50" as="geometry" />
+          <mxGeometry x="1030" y="80" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uFygjKmsmsNvpjBXzgSG-38" value="编辑" style="endArrow=classic;html=1;exitX=0;exitY=0.914;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.12;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uFygjKmsmsNvpjBXzgSG-2" target="uFygjKmsmsNvpjBXzgSG-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="480" as="sourcePoint" />
+            <mxPoint x="850" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uFygjKmsmsNvpjBXzgSG-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uFygjKmsmsNvpjBXzgSG-2" target="uFygjKmsmsNvpjBXzgSG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uFygjKmsmsNvpjBXzgSG-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.32;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6" target="uFygjKmsmsNvpjBXzgSG-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uFygjKmsmsNvpjBXzgSG-44" value="编辑" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uFygjKmsmsNvpjBXzgSG-43">
+          <mxGeometry x="-0.2874" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
